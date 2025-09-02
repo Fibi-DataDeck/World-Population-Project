@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This exploratory and data analysis project uses the MySQL World Sample Database. It uses SQL queries to explore data related to cities, countries, and languages across the world.The source dataset is "".
+This exploratory and data analysis project uses the MySQL World Sample Database. It uses SQL queries to explore data related to cities, countries, and languages across the world. The source dataset is "world.sql" in the repository files.
 
 ## Project Objectives
 
